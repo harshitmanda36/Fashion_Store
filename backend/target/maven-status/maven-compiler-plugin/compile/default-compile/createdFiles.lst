@@ -1,0 +1,14 @@
+com/example/fashion/controller/BookingController.class
+com/example/fashion/FashionApplication.class
+com/example/fashion/controller/ProductController.class
+com/example/fashion/controller/ProductController$ProductRequest.class
+com/example/fashion/service/ProductService.class
+com/example/fashion/repository/ProductRepository.class
+com/example/fashion/controller/BookingController$BookingRequest.class
+com/example/fashion/model/Booking.class
+com/example/fashion/model/Product.class
+com/example/fashion/config/SecurityConfig.class
+com/example/fashion/DataLoader.class
+com/example/fashion/repository/BookingRepository.class
+com/example/fashion/config/CorsConfig$1.class
+com/example/fashion/config/CorsConfig.class
