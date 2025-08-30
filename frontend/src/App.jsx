@@ -214,8 +214,7 @@ export default function App(){
       <div className="footer">
         <hr/>
         <div className="inline" style={{justifyContent:'space-between'}}>
-          <div>© {new Date().getFullYear()} Fashion Booking — demo app for learning</div>
-          <div><small className="muted">Backend: Spring Boot + MongoDB · Frontend: React + Vite</small></div>
+
         </div>
       </div>
       <button className="cart" onClick={()=>setOpenCart(v=>!v)}>🧺</button>
