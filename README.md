@@ -4,7 +4,7 @@
 ## Prereqs
 - Java 17 + Maven
 - Node 18+
-- MongoDB on
+- MongoDB 
 
 
 
